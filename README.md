@@ -7,3 +7,5 @@ Website Pricing Project designed with Bootstrap utilities.
 3. Open the index.html file with Chrome browser.
 
 ![Bootstrap Pricing Website](https://github.com/anferebu/BOOTSTRAP-FOR-PRICING/blob/master/BootstrapPricing.jpg)
+
+Author: Andrés R. Bucheli
